@@ -3,6 +3,12 @@ body {
     color: #e4e4e4;
 }
 
+button {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background: linear-gradient(138deg, rgba(0,187,193,1) 0%, rgba(204,0,178,1) 100%);
+}
+
 section {
     background: rgb(0,187,193);
     background: linear-gradient(138deg, rgba(0,187,193,1) 0%, rgba(204,0,178,1) 100%);
